@@ -41,7 +41,7 @@ You should see the Python IDLE interpreter printing back the value 4 as shown ab
 
 _________
 
-# Lesson 2 - Adding numbers using Python IDLE interpreter. Learn what is a Python expression.
+# Lesson 2 - Learn what is a Python expression. Adding numbers using Python IDLE interpreter.
 
 ## Objective
 
@@ -64,7 +64,7 @@ Learn how to use a Python IDLE interpreter to add numbers.
 
 Python expressions are a form of evaluations that when done results in a final value that can be printed on the screen. In this case, the line 2 + 4 is an expression that when evaluated by the Python interpreter results in a final value 6 that can be printed on the screen as shown above.
 
-Learn more about (Python expressions here) [https://muddoo.com/tutorials/difference-between-expression-and-statement-in-python/]
+Learn more about [Python Expressions](https://muddoo.com/tutorials/difference-between-expression-and-statement-in-python/)
 
 ### Expected Outcome
 
