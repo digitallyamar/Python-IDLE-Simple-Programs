@@ -11,3 +11,30 @@ This is a repository of simple Python programs for beginners that is expected to
 ## Results
 
 At the end of completing these set of programs, we hope that students will have basic understanding of how to execute Python commands on a Python shell, particularly on Python IDLE IDE.
+
+
+_________
+
+# Lesson 1 - How  to use a Python IDLE interpreter
+
+## Objective
+
+Learn how to use a Python IDLE interpreter. Also verifies that your Python and IDLE interpreter is installed properly.
+
+### Steps
+
+1. Open up the IDLE application, You can find the application by typing in the name of the program in your Operating System's search bar.
+
+2. Enter a valid number, say for example 4
+    ```
+    Python 3.5.2 (default, Nov 12 2018, 13:43:14) 
+    [GCC 5.4.0 20160609] on linux
+    Type "copyright", "credits" or "license()" for more information.
+    >>> 4
+    4
+    >>>
+    ```
+
+### Expected Outcome
+
+You should see the Python IDLE interpreter printing back the value 4 as shown above.
