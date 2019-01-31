@@ -38,3 +38,34 @@ Learn how to use a Python IDLE interpreter. Also verifies that your Python and I
 ### Expected Outcome
 
 You should see the Python IDLE interpreter printing back the value 4 as shown above.
+
+_________
+
+# Lesson 2 - Adding numbers using Python IDLE interpreter. Learn what is a Python expression.
+
+## Objective
+
+Learn how to use a Python IDLE interpreter to add numbers.
+
+### Steps
+
+1. Open up the IDLE application, You can find the application by typing in the name of the program in your Operating System's search bar.
+
+2. Enter the following expression in your Python IDLE interpreter
+
+    ```
+    Python 3.5.2 (default, Nov 12 2018, 13:43:14) 
+    [GCC 5.4.0 20160609] on linux
+    Type "copyright", "credits" or "license()" for more information.
+    >>> 2 + 4
+    6
+    >>>
+    ```
+
+Python expressions are a form of evaluations that when done results in a final value that can be printed on the screen. In this case, the line 2 + 4 is an expression that when evaluated by the Python interpreter results in a final value 6 that can be printed on the screen as shown above.
+
+Learn more about (Python expressions here) [https://muddoo.com/tutorials/difference-between-expression-and-statement-in-python/]
+
+### Expected Outcome
+
+You should see the Python IDLE interpreter printing back the value 6 as shown above.
